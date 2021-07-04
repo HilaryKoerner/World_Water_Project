@@ -65,7 +65,6 @@ def country_cords():
 
 ##############################################################################
 # API PAGE TO HOLD WATER DATA (LEAH WILL LINK TO THIS - END USER WILL NOT SEE)
-# Similar to Titanic exercise
 ##############################################################################
 
 @app.route("/api/v1.0/water_data")
