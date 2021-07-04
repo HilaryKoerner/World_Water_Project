@@ -1,7 +1,7 @@
 # World Water Project
 The goal of this project was to look at countries and their access to clean water and compare it against countries and the percentage of deaths related to water access. 
 
-To execute the project, we used Jupyternote book, SQL using PG Admin, a flask app to run on a local computer, and javaScript to run the charts and maps using leaflet and D3. 
+To execute the project, we used Jupyternote book, SQL using PG Admin, a flask app to run on a local computer, and javaScript to run the charts and maps using choropleth and D3. 
 
 ![safewater3dropdown](https://user-images.githubusercontent.com/74504885/124392165-c9f0e400-dcb9-11eb-8006-2ccac8e17074.PNG)
 
@@ -39,7 +39,7 @@ creat flask app
 
 ## maps.js
 
-## Leaflet
+## choropleth.js
 
 ## Charts
 
