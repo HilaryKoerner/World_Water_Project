@@ -50,7 +50,7 @@ def index():
     return "Welcome to the DashBoard"
 
 ################################################################################
-# API PAGE TO HOLD GEOJSON DATA (LEAH WILL LINK TO THIS - END USER WILL NOT SEE)
+# API PAGE TO HOLD GEOJSON DATA (D3 files will link to this - END USER WILL NOT SEE)
 ################################################################################
 
 country_list = []
@@ -100,9 +100,3 @@ def water_data():
 
 if __name__ == '__main__':
     app.run(debug=True)
-
-
-##use pandas to pull it in from SQLITE, and to to_json (a dataframe method) hint: orient records, add resource
-
-
-#select properties from the features, and use leaflet to do all that. 
