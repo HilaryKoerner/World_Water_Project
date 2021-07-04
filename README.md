@@ -1,4 +1,5 @@
 # World Water Project
+The goal of this project was to look at countries and their access to clean water and compare it against countries and the percentage of deaths related to water access. 
 
 Using....lists libraries
 
