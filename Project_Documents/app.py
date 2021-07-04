@@ -63,9 +63,9 @@ task = country_list
 def country_cords():
     return(task)
 
-##############################################################################
-# API PAGE TO HOLD WATER DATA (LEAH WILL LINK TO THIS - END USER WILL NOT SEE)
-##############################################################################
+######################################################
+# API PAGE TO HOLD WATER DATA (END USER WILL NOT SEE)
+######################################################
 
 @app.route("/api/v1.0/water_data")
 def water_data():
