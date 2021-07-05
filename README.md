@@ -51,6 +51,8 @@ I created a flask app and three API pages that the maps.js and app.js files refe
 ## maps.js
 The maps.js file references the data stored in the SQL database. D3 is used to give the end user the ability to toggel between three water variables and see the changes on the choropleth map. 
 
+We created a function that gives the user an option to drop down and select one of three water variables. 
+
 ![mapsjs-1](https://user-images.githubusercontent.com/74504885/124523225-d8272900-ddbb-11eb-893b-2ab0be73f532.PNG)
 
 ![mapsjs-2](https://user-images.githubusercontent.com/74504885/124523230-dcebdd00-ddbb-11eb-8394-4856913b8088.PNG)
