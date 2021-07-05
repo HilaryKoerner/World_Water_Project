@@ -51,6 +51,14 @@ I created a flask app and three API pages that the maps.js and app.js files refe
 ## maps.js
 The maps.js file references the data stored in the SQL database. D3 is used to give the end user the ability to toggel between three water variables and see the changes on the choropleth map. 
 
+![mapsjs-1](https://user-images.githubusercontent.com/74504885/124523225-d8272900-ddbb-11eb-893b-2ab0be73f532.PNG)
+
+![mapsjs-2](https://user-images.githubusercontent.com/74504885/124523230-dcebdd00-ddbb-11eb-8394-4856913b8088.PNG)
+
+![mapsjs-3](https://user-images.githubusercontent.com/74504885/124523236-e2e1be00-ddbb-11eb-9a85-46cf158aa82e.PNG)
+
+![mapsjs-4](https://user-images.githubusercontent.com/74504885/124523240-e7a67200-ddbb-11eb-951b-fe6219b3f1c9.PNG)
+
 ## app.js
 The app.js file also references the data stored in the SQL database. D3 is used to give the end user the ability to toggel between three water variables and see the changes on the chart.
 
