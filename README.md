@@ -59,6 +59,8 @@ We created a function that gives the user an option to drop down and select one 
 
 ![mapsjs-3](https://user-images.githubusercontent.com/74504885/124523236-e2e1be00-ddbb-11eb-9a85-46cf158aa82e.PNG)
 
+We created a legend to display the percentages of death and the corresponding colors. The three water variables are on different scales, so the legend scale changes with each drop down from the user. 
+
 ![mapsjs-4](https://user-images.githubusercontent.com/74504885/124523240-e7a67200-ddbb-11eb-951b-fe6219b3f1c9.PNG)
 
 ## app.js
