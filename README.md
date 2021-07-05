@@ -20,7 +20,7 @@ We calculated the percentages of death and add this as a column to our merged ta
 
 ![JNpercentages](https://user-images.githubusercontent.com/74504885/124392209-f278de00-dcb9-11eb-8bc3-a7d7249f38fc.PNG)
 
-We named the column names so they would match in SQL. 
+We named the columns and set perameters for SQL. 
 
 ![JNsqlclumnnames](https://user-images.githubusercontent.com/74504885/124392216-f7d62880-dcb9-11eb-910f-95fab4637f22.PNG)
 
