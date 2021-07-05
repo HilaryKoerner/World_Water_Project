@@ -57,7 +57,8 @@ creat flask app
 ## Charts
 
 ## Running on localhost:8000
-I ran a local server on my machine and then ran the site local host. 
+Using my command prompt, I ran a local server on my machine and then ran localhost:8000. 
+
 ![safewaterlocalhost](https://user-images.githubusercontent.com/74504885/124392280-3a980080-dcba-11eb-9b65-e739067714c2.PNG)
 
 ![safewaterlocalhost2](https://user-images.githubusercontent.com/74504885/124392283-3e2b8780-dcba-11eb-89b8-e4dff7febf23.PNG)
