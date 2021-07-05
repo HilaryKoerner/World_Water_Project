@@ -4,9 +4,11 @@ The goal of this project was to analyze  countries and their access to clean wat
 To execute the project, we used Jupyternote book, SQL using PG Admin, a flask app to run on a local machine, and javaScript to run the charts and maps using choropleth and D3. 
 
 The end user can select from the drop down the following: Unsafe Drinking Water, access to sanitation, and access to clean handwashing. Up selection, the the colors on the map will be come lighter or darker. A darker purple means a higher percentage of death attributed to the dropdown item. The second map is static and shows the each country's access to clean water. The darker the purple shading, the better access to clean water. 
+
 ![safewater3dropdown](https://user-images.githubusercontent.com/74504885/124392165-c9f0e400-dcb9-11eb-8006-2ccac8e17074.PNG)
 
 The third chart looks at the same three factors (Unsafe Drinking Water, access to sanitation, and access to clean handwashing) and charts the percentages on an X-Y graph. The user can toggle the features on the Y access. 
+
 ![safewater4dropdown](https://user-images.githubusercontent.com/74504885/124392169-cfe6c500-dcb9-11eb-9a4f-037a0b8331ae.PNG)
 
 ## Jupyter Notebook Import and Cleaning
