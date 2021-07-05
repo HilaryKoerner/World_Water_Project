@@ -34,9 +34,11 @@ We created an engine to link to PG Admin and tested the connection.
 
 
 ## app.py
-creat flask app
+Since our cleaned CSV data file was stored in PG Admin, I needed to create a connection to the database. 
 
 ![safewaterflaskapp](https://user-images.githubusercontent.com/74504885/124392250-1a684180-dcba-11eb-8110-0fe3f6f44bc0.PNG)
+
+I created a flask app and three API pages that the maps.js and app.js files reference. 
 
 ![safewaterflashlandingpage](https://user-images.githubusercontent.com/74504885/124392263-23f1a980-dcba-11eb-8c1b-34649de7e8f8.PNG)
 
@@ -46,15 +48,11 @@ creat flask app
 
 ![safewaterflaskappmatchtoSWL](https://user-images.githubusercontent.com/74504885/124392275-3370f280-dcba-11eb-8540-e2c678b16fdd.PNG)
 
-
-
 ## maps.js
+The maps.js file references the data stored in the SQL database. D3 is used to give the end user the ability to toggel between three water variables and see the changes on the choropleth map. 
 
-
-
-## choropleth.js
-
-## Charts
+## app.js
+The app.js file also references the data stored in the SQL database. D3 is used to give the end user the ability to toggel between three water variables and see the changes on the chart.
 
 ## Running on localhost:8000
 Using my command prompt, I ran a local server on my machine and then ran localhost:8000. 
