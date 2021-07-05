@@ -1,5 +1,5 @@
 # World Water Project
-The goal of this project was to look at countries and their access to clean water and compare it against countries and the percentage of deaths related to water access. 
+The goal of this project was to analyze  countries and their access to clean water and compare it against countries and the percentage of deaths related to water access. 
 
 To execute the project, we used Jupyternote book, SQL using PG Admin, a flask app to run on a local machine, and javaScript to run the charts and maps using choropleth and D3. 
 
@@ -8,6 +8,7 @@ To execute the project, we used Jupyternote book, SQL using PG Admin, a flask ap
 ![safewater4dropdown](https://user-images.githubusercontent.com/74504885/124392169-cfe6c500-dcb9-11eb-9a4f-037a0b8331ae.PNG)
 
 ## Jupyter Notebook Import and Cleaning
+We used Jupyter Notebook to import, clean, and merge the files. 
 
 ![safewaterJNdependencies](https://user-images.githubusercontent.com/74504885/124392181-dc6b1d80-dcb9-11eb-86b5-d2f523a097e4.PNG)
 
@@ -15,9 +16,15 @@ To execute the project, we used Jupyternote book, SQL using PG Admin, a flask ap
 
 ![JN1](https://user-images.githubusercontent.com/74504885/124392204-ec82fd00-dcb9-11eb-96cd-f93c52e80329.PNG)
 
+We calculated the percentages of death and add this as a column to our merged table. 
+
 ![JNpercentages](https://user-images.githubusercontent.com/74504885/124392209-f278de00-dcb9-11eb-8bc3-a7d7249f38fc.PNG)
 
+We named the column names so they would match in SQL. 
+
 ![JNsqlclumnnames](https://user-images.githubusercontent.com/74504885/124392216-f7d62880-dcb9-11eb-910f-95fab4637f22.PNG)
+
+We created an engine to link to PG Admin and tested the connection. 
 
 ![JNsqluploadtest](https://user-images.githubusercontent.com/74504885/124392224-fdcc0980-dcb9-11eb-841d-d12a1894d564.PNG)
 
