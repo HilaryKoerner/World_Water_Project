@@ -1,7 +1,7 @@
 # World Water Project
 The goal of this project was to analyze  countries and their access to clean water and compare it against countries and the percentage of deaths related to water access. 
 
-To execute the project, we used Jupyter Notebook, SQL using PG Admin, a flask app to run on a local machine, and javaScript to run the charts and maps using choropleth and D3. 
+To execute the project, we used Jupyter Notebook, SQL using PG Admin, a flask app to run on a local machine, and JavaScript to run the charts and maps using choropleth and D3. 
 
 The end user can select from the drop down the following: Unsafe Drinking Water, access to sanitation, and access to clean handwashing. Up selection, the the colors on the map will be come lighter or darker. A darker purple means a higher percentage of death attributed to the dropdown item. The second map is static and shows the each country's access to clean water. The darker the purple shading, the better access to clean water. 
 
