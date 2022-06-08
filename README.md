@@ -49,7 +49,7 @@ I created a flask app and three API pages that the maps.js and app.js files refe
 ![safewaterflaskappmatchtoSWL](https://user-images.githubusercontent.com/74504885/124392275-3370f280-dcba-11eb-8540-e2c678b16fdd.PNG)
 
 ## maps.js
-The maps.js file references the data stored in the SQL database. D3 is used to give the end user the ability to toggel between three water variables and see the changes on the choropleth map. 
+The maps.js file references the data stored in the SQL database. D3 is used to give the end user the ability to toggle between three water variables and see the changes on the choropleth map. 
 
 We created a function that gives the user an option to drop down and select one of three water variables. 
 
